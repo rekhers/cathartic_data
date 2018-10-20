@@ -1,0 +1,17 @@
+{
+  "name": "cathartic_data",
+  "version": "0.0.1",
+  "description": "cathartic_data",
+  "engines": {
+    "node": "*"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "^4.16.2",
+    "heroku": "^0.2.0"
+  }
+}
